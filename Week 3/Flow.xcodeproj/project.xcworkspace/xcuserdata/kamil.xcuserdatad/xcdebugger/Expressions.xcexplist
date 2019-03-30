@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FlowCell.init(frame:):FlowCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.scrollViewWillEndDragging(_:withVelocity:targetContentOffset:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.contentOffset">
+            </PersistentString>
+            <PersistentString
+               value = "middleIndex">
+            </PersistentString>
+            <PersistentString
+               value = "closestAtrribute.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FlowLayout.prepare():FlowLayout.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FlowLayout.shouldInvalidateLayout(forBoundsChange:):FlowLayout.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "offsetChange">
+            </PersistentString>
+            <PersistentString
+               value = "collectionView!.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FlowLayout.invalidateLayout():FlowLayout.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView!.contentOffset">
+            </PersistentString>
+            <PersistentString
+               value = "offsetChange">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
